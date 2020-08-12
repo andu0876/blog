@@ -1,7 +1,7 @@
 +++
 title = "Einführung"
 date = "2019-05-28"
-draft = false
+draft = true
 pinned = false
 tags = ["Anleitung", "Lernblog"]
 image = "/img/default-image.png"
@@ -43,7 +43,6 @@ Natürlich gibt es auch **fett** und *kursiv*.
 ## Zitate
 
 > «Zitate können hervorgehoben werden.»
-> <footer>Autor mit <a href="https://www.lernblog.ch">Link zur Quelle</a></footer>
 
 Die Fusszeile mit Quellenangabe muss mit HTML geschrieben. Am besten dazu in den `Markdown`-Modus wechseln. 
 
