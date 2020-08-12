@@ -15,7 +15,7 @@ Hallo zusammen. Dies ist mein 1. Beitrag auf diesem Blog. Ich habe ein paar Idee
 
   * Website erstellen
 
-    ![](whatsapp-image-2020-08-12-at-16.01.05.jpeg "Skizze")
+    ![]()
   * Programm
   * evtl. auch App
 * Videobearbeitung
@@ -24,7 +24,7 @@ Hallo zusammen. Dies ist mein 1. Beitrag auf diesem Blog. Ich habe ein paar Idee
 
 **Meine Ideen:**
 
-* Eine Website mit Fakenews erstellen
+* Zusammen mit Isabelle eine Website mit Fakenews erstellen. Eventuell eine App dazu erstellen. Mit Photoshop und Videobearbeitung arbeiten. 
 * Programm entwickeln
 * Eigens Game entwickeln...
 * (App)
