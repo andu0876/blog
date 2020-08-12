@@ -28,4 +28,4 @@ Hallo zusammen. Dies ist mein 1. Beitrag auf diesem Blog. Ich habe ein paar Idee
 
 
 
-  **Einfach etwas aus Spass und nicht unter Druck eines Arbeitsauftrages machen. Just for Fun**
+  **Einfach etwas aus Spass und nicht unter Druck eines Arbeitsauftrages machen. Just for Fun!**
