@@ -6,7 +6,7 @@ pinned = true
 tags = [""]
 image = "unbenannt.png"
 +++
-Hallo zusammen. Dies ist mein 1. Beitrag auf diesem Blog. Ich habe ein paar Ideen gesammelt und diese hier dargelistet. Auch habe ich in diesem Beitrag ein paar Lernziele aufgelistet. Was ich gerne lernen würde. Ich werde jede Woche ein Update hier hochladen so, dass ihr seht was ich so mache. :D
+***HALLO ZUSAMMEN***. Dies ist mein 1. Beitrag auf diesem Blog. Ich habe ein paar Ideen gesammelt und diese hier dargelistet. Auch habe ich in diesem Beitrag ein paar Lernziele aufgelistet. Was ich gerne lernen würde. Ich werde jede Woche ein Update hier hochladen so, dass ihr seht was ich so mache. :D
 
 **Was möchte ich gerne lernen?**
 
