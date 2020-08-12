@@ -1,7 +1,7 @@
 +++
 title = "Hellooooo"
 date = "2020-08-12"
-draft = false
+draft = true
 pinned = true
 image = "lusac-1-.png"
 +++
