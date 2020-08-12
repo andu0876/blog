@@ -14,7 +14,7 @@ Hallo zusammen. Dies ist mein 1. Beitrag auf diesem Blog. Ich habe ein paar Idee
 * Programmieren
 
   * Website erstellen
-  * Programm
+  * Programm/Game
   * evtl. auch App
 * Videobearbeitung
 
