@@ -13,4 +13,4 @@ Danach erhielten wir den Auftrag zu zweit eine Website, eines Blumenladens zu er
 
 ![Die Front unserer Website](asgwsaerhjaerj.png "Titelseite unserer Website")
 
-Wir haben die Website mit carrd.co erstellt. Jedenfalls fand ich es persönlich ziemlich mühsam so eine Website zu erstellen. Zum einen gab es ein paar Sachen die ein wenig zu kompliziert sind. Aber sonst bin ich sehr zufrieden für das, dass wir nur 90 Minuten Zeit hatten.
+Wir haben die Website mit carrd.co erstellt. Die Bilder sind von Isabelle, so mussten wir keine Eigene machen gehen. Jedenfalls fand ich es persönlich ziemlich mühsam so eine Website zu erstellen. Zum einen gab es ein paar Sachen die ein wenig zu kompliziert sind. Aber sonst bin ich sehr zufrieden für das, dass wir nur 90 Minuten Zeit hatten. Grundsätzlich könnte man so ziemlich gut und schnell Geld verdienen. Ich bräuchte nur noch ein bisschen Übung. ;D
