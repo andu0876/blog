@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = "Seite über meine Persöhnlichkeit"
 +++
-![](/img/default-author.png)
+![](anonymous_emblem.svg.png)
 
 ## Andrin Marti
 
