@@ -1,13 +1,11 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über meine Persöhnlichkeit"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Andrin Marti
 
-info@lernblog.ch
-
-Beschreibung, wer ich bin...
+andrinmarti0876@gmail.com
