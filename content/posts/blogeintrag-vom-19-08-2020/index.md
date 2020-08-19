@@ -3,7 +3,7 @@ title = "Blogeintrag vom 19.08.2020"
 date = "2020-08-19"
 draft = false
 pinned = false
-image = "asgwsaerhjaerj.png"
+image = "whatsapp-image-2020-08-19-at-15.03.07.jpeg"
 +++
 Heute habe ich als erstes diesen Blog noch ein bisschen schöner Gestaltet. 
 
