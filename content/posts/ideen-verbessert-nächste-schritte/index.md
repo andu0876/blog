@@ -3,7 +3,7 @@ title = "Ideen verbessert & Nächste Schritte"
 date = "2020-09-02"
 draft = false
 pinned = false
-image = "pict.png"
+image = "02.09-1-.png"
 +++
 **02.09.2020**
 
