@@ -27,6 +27,6 @@ Diese Ideen haben wir dann auch Marco mitgeteilt. Er gab uns ein paar Tipps wie 
 
 ![](whatsapp-image-2020-09-02-at-14.34.40.jpeg)
 
-Das Game und auch die Website würden viel Arbeit werden. Für das Game habe ich ein paar Programmier-Arten herausgesucht. Unteranderem habe ich Snap gebraucht. Mit Snap habe ich schon am Gymnasium gearbeitet. Jedoch könnte man auch Scratch oder Java gebrauchen, um ein Game zu erstellen. Es wäre mit Snap fast am einfachsten. Jedoch auch nicht sehr schön am Schluss.
-
 ![](sssssas.png)
+
+Das Game und auch die Website würden viel Arbeit werden. Für das Game habe ich ein paar Programmier-Arten herausgesucht. Unteranderem habe ich Snap gebraucht. Mit Snap habe ich schon am Gymnasium gearbeitet. Jedoch könnte man auch Scratch oder Java gebrauchen, um ein Game zu erstellen. Es wäre mit Snap fast am einfachsten. Jedoch auch nicht sehr schön am Schluss.
