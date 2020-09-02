@@ -24,11 +24,9 @@ Heute haben wir unsere Ideen die wir ganz am Anfang hatten, ein wenig vertieft. 
   * Mit Snap
   * Scratch 
   * oder JAVA
-  * Dazu wollen wir natürlich auch einen Games-Entwickler fragen, was er uns für Tips geben könnte.
+  * Dazu wollen wir natürlich auch einen Games-Entwickler fragen, was er uns für Tipps geben könnte.
 
-
-
-Diese Ideen haben wir dann auch Marco mitgeteilt. Er gab uns ein paar Tipps wie wir das ganze angehen sollen. Seine Tipps seht ihr hier unten. Darunter ein paar Brainstorming Sachen von Isabelle und mir.
+Diese Ideen haben wir dann auch Marco mitgeteilt. Er gab uns ein paar Tipps wie wir das ganze angehen sollen. Seine Tipps seht ihr hier unten. Darunter ein paar Sachen von Isabelle und mir. Vor allem Isabelle hat viel Recherchiert, was es schon gibt oder wie man es machen könnte.
 
 ![](whatsapp-image-2020-09-02-at-14.34.40.jpeg)
 
