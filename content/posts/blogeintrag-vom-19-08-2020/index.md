@@ -1,5 +1,5 @@
 +++
-title = "Blog Überarbeitung & Eigene Website erstellen"
+title = "Ü𝖇𝖊𝖗𝖆𝖗𝖇𝖊𝖎𝖙𝖚𝖓𝖌 𝖉𝖊𝖘 𝕭𝖑𝖔𝖌𝖘 + 𝕰𝖎𝖌𝖊𝖓𝖊 𝖂𝖊𝖇𝖘𝖎𝖙𝖊"
 date = "2020-08-19"
 draft = false
 pinned = false
