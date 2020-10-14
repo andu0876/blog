@@ -1,5 +1,5 @@
 +++
-title = "Meine Herbstferien"
+title = "𝕸𝖊𝖎𝖓𝖊 𝕳𝖊𝖗𝖇𝖘𝖙𝖋𝖊𝖗𝖎𝖊𝖓"
 date = "2020-10-14"
 draft = false
 pinned = false
