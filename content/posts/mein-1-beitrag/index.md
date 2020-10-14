@@ -1,5 +1,5 @@
 +++
-title = "Mein 1. Beitrag"
+title = "１． Ｂｅｉｔｒａｇ"
 date = "2020-08-12"
 draft = false
 pinned = false
