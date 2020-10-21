@@ -1,5 +1,5 @@
 +++
-title = "Lernen über Teams, Programmieren"
+title = "𝕿𝖊𝖆𝖒𝖘 𝖇𝖊𝖘𝖕𝖗𝖊𝖈𝖍𝖚𝖓𝖌 & 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖊𝖗𝖊𝖓"
 date = "2020-10-21"
 draft = false
 pinned = false
