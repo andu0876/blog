@@ -17,4 +17,4 @@ Ausserdem haben Isabelle und Ich die **Planung** für unser Projekt gemacht. Dor
 
 
 
-Im Unterricht war natürlich heute auch die **Präsidentschaftswahl** in den **USA**. Wir haben eigentlich laufend auf die Tabelle geschaut, um immer gut informiert zu sein. Die grosse Frage: Biden oder Trump, ging natürlich auch durch die Klasse. Politische Themen sind meiner Meinung nach immer schwierig und mühsam anzuschauen und beizusteuern. Auch die TV-Debatte zwischen Trump und Biden war ähnlich.
+Im Unterricht war natürlich heute auch die **Präsidentschaftswahl** in den **USA**. Wir haben eigentlich laufend auf die Tabelle geschaut, um immer gut informiert zu sein. Die grosse Frage: Biden oder Trump?, ging natürlich auch durch die Klasse. Politische Themen sind meiner Meinung nach immer schwierig und mühsam anzuschauen und beizusteuern. Auch die TV-Debatte zwischen Trump und Biden war ähnlich.
