@@ -5,7 +5,9 @@ draft = false
 pinned = false
 image = "maxresdefault.jpg"
 +++
-Heute habe ich Hauptsächlich am Programmier-Tutorial weitergemacht. Dort habe ich gelernt wie man mit CSS arbeitet. CSS bringt Farbe in die Website. Ich habe mit spass etwas herumprobiert und habe glaube ich begriffen. Wie es funktioniert. Hier die Website auf Edge und darunter das Bild in Code.exe: 
+Heute habe ich Hauptsächlich am Programmier-Tutorial weitergemacht. Dort habe ich gelernt wie man mit CSS arbeitet. CSS bringt Farbe in die Website. Ich habe mit spass etwas herumprobiert und habe glaube ich begriffen. Wie es funktioniert. Der Link des Tutorial: https://code.makery.ch/de/library/html-css/part4/
+
+  Hier die Website auf Edge und darunter das Bild in Code.exe: 
 
 ![](bild.png)
 
