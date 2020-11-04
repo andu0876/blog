@@ -9,6 +9,6 @@ Heute habe ich Hauptsächlich am Programmier-Tutorial weitergemacht. Dort habe i
 
 ![](bild.png)
 
-![](code.png)
+![](codex.png)
 
 Ausserdem haben Isabelle und Ich die Planung für unser Projekt gemacht. Dort haben wir Ziele und Aufgaben definiert. Jedenfalls für November haben wir uns einiges Vorgenommen und auch im Dezember ist der terminplan voll. Wir haben einiges zu tun bis wir eine eigene Website haben.
