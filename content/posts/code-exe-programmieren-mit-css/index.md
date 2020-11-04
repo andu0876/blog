@@ -13,7 +13,7 @@ Heute habe ich Hauptsächlich am **Programmier-Tutorial** weitergemacht. Dort ha
 
   Hier die Website auf Edge und darunter das Bild in Code.exe: 
 
-![](bild.png)
+![](bild.png "Nicht zu ernst nehmen was man sieht. hatte nur etwas rumprobiert und hatte die Bilder noch. XD")
 
 ![](codex.png)
 
