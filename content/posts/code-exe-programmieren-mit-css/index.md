@@ -11,7 +11,7 @@ image = "maxresdefault.jpg"
 
 Heute habe ich Hauptsächlich am **Programmier-Tutorial** weitergemacht. Dort habe ich gelernt wie man mit CSS arbeitet. CSS bringt Farbe in die Website. Ich habe mit spass etwas herumprobiert und habe glaube ich begriffen. Das ganze habe ich nicht schön gestaltet. Etwas mehr herumprobiert und geschaut was alles so geht. Wie es funktioniert. Der Link des Tutorial: https://code.makery.ch/de/library/html-css/part4/
 
-  Hier die Website auf Edge und darunter das Bild in Code.exe: 
+  Hier die Website auf Edge und darunter die Website in Code.exe: 
 
 ![Nicht zu ernst nehmen was man sieht. hatte nur etwas rumprobiert und hatte die Bilder noch. XD](bild.png "Nicht zu ernst nehmen was man sieht. hatte nur etwas rumprobiert und hatte die Bilder noch. XD")
 
