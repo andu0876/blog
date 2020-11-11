@@ -1,5 +1,5 @@
 +++
-title = "Code.exe | Programmieren mit CSS"
+title = "𝓒𝓸𝓭𝓮.𝓮𝔁𝓮 | 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓮𝓻𝓮𝓷 𝓶𝓲𝓽 𝓒𝓢𝓢"
 date = "2020-11-04"
 draft = false
 pinned = false
