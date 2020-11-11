@@ -17,10 +17,10 @@ Heute habe ich am Tutorial auf code.makery.ch weitergearbeitet. Ich habe es been
 
 In der 3.Lektion habe ich dann mit dem erweiterten Tutorial weitergemacht. Dort habe ich gelernt wie man ein Layout in die Website bringt und wie man Bilder orientiert. Mit Bootstrap kann man die Website, einfacher als sonst, gestalten. Man kann:
 
-*  ein Layout einbringen 
+* ein Layout einbringen 
 * die Navigationsleiste verschönern 
 * Die Website auf dem Handy besser sichtbar machen
 * Bilder der Grösse anpassen
 * und vieles mehr....
 
-Hier nochmals der Link zu meiner Website: https://kimjongun.netlify.app/
+Hier nochmals der Link zu meiner Website: <https://kimjongun.netlify.app/>
