@@ -15,4 +15,6 @@ Für Anoja konnte ich bereits einen ersten "Auftrag" ausführen. Ich habe Ihr be
 
 ![](kimjongphot.png "Augen und Mund verschoben")
 
-Heute war mehr ein Hineinlernen und arbeiten in Gimp. Nächstes Mal würden wir bereits erste Storys schreiben mit dem dazugehörigen Bild natürlich.
+### Planung
+
+Heute war mehr ein Hineinlernen und arbeiten in Gimp. Nächstes Mal würden wir bereits erste Storys schreiben mit dem dazugehörigen Bild natürlich. Das wäre dann ein weiterer Schritt in Richtung Programmieren der eigenen Website. Unser Ziel ist es bis ende Jahr auch etwas vorweisen zu können.
