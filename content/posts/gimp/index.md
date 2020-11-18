@@ -13,7 +13,7 @@ Heute haben Isabelle und Ich GIMP erkundigt. Das ist eine Gratis-Version des bek
 
 Für Anoja konnte ich bereits einen ersten "Auftrag" ausführen. Ich habe Ihr bei einem Bild das Logo ausgeschnitten ohne den Hintergrund zu verändern.  Man kann aber auch lustige Sachen mit Gimp machen wie das zum Beispiel:
 
-![](kimjongphot.png "Augen und Mund verschoben")
+![](gimp-netun.png "Augen und Mund verschoben")
 
 ### Planung
 
