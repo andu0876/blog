@@ -11,7 +11,6 @@ Es ist endlich soweit! Wir haben angefangen mit unserer Website. Ich habe dazu e
 
 ![](no.png "Der Front-look unserer Website")
 
-## \
-Erster Beitrag geschrieben
+## Erster Beitrag geschrieben
 
 Isabelle hat nebenbei den ersten Beitrag geschrieben. Vorerst auf Englisch, da wir International werden wollen. Für sie war es aber kein grosses Problem. Am Schluss hat Sie den Text noch auf Deutsch übersetzt. Das Thema könnt Ihr ja auf unserer Website nachschauen, wenn es euch interessiert. Der zweite Beitrag ist auch schon in Arbeit.
